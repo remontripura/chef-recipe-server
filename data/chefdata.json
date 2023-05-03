@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "chefImage": "https://i.ibb.co/DzsXVQZ/happy-young-cook-uniform-holding-salad.jpg",
+        "chefName": "Md Sabbir",
+        "yearsOfExperience": "5 year +",
+        "numberOfRecipes": 3,
+        "likes": 300,
+        "description": "Md Sabbir is a professional chef with a passion for creating exquisite dishes that tantalize the taste buds. He is a skilled and experienced culinary expert, having spent many years honing his craft and perfecting his techniques. Md Sabbir is a true artist in the kitchen, using his creativity and knowledge of ingredients to craft unique and delicious dishes that leave a lasting impression on anyone who tries them. Md Sabbir is a friendly and outgoing individual, always willing to share his knowledge and expertise with others. He is passionate about cooking and loves nothing more than to create amazing meals that bring people together.",
+        "recipe": [
+            {
+                "recipe_name": "Chiken Biryani",
+                "ingredients": "Spice, Vegetable, Meat, Yoghurt, Dried Fruit, Garlic, Mint leaf, Mint, Rice, Egg",
+                "cooking_method": "Rinse the Basmati rice in cold water and soak it for 30 minutes. Heat oil or ghee in a large pan or pot, add the sliced onions and sauté until golden brown. . Add the chicken pieces and fry until they turn golden brown. Add the chopped tomatoes, biryani masala, turmeric powder, red chili powder, and salt. Mix well and cook for 5-7 minutes. Mix well.Cover the pot with a tight-fitting lid and cook on low heat for 10-15 minutes or until the rice is fully cooked and fluffy.",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Mutton Roast",
+                "ingredients": " mutton pieces, chopped onion, ginger and garlic paste, turmeric powder,garam masala powder",
+                "cooking_method": "Heat a pan over a medium flame add 3 spoons of oil. Add pressure cooked mutton with stock mix well. Add a bay leaf and star anise mix. This is optional. If you want little gravy switch off the fire at this stage. For dry mutton stir well and fry for 5 minutes till it dry completely",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Chicken Fry",
+                "ingredients": "1 Kg Chicken, To deep fry Oil, 1/2 tsp Ginger paste, 1/2 tsp Garlic pasteto, taste Salt2 tsp Chilli powder",
+                "cooking_method": "Prick the chicken in 2-3 places, marinate in the mixture and keep for 3-4 hrs. Heat the oil in a heavy-based pan and put the chicken pieces into it. Deep-fry over a medium flame, till the chicken is tender. It takes 15-20 minutes. Serve garnished with lemon twists and coriander leaves.",
+                "ratings": "4.5"
+            }
+
+        ]
+    },
+    {
+        "id": 2,
+        "chefImage": "https://i.ibb.co/DQhH7R7/gettyimages-1064371440-1024x1024.jpg",
+        "chefName": "Md Rashed",
+        "yearsOfExperience": "6 year +",
+        "numberOfRecipes": 3,
+        "likes": 250,
+        "description": "Md Rashed is a professional chef with a passion for creating exquisite dishes that tantalize the taste buds. He is a skilled and experienced culinary expert, having spent many years honing his craft and perfecting his techniques. Md Rashed is a true artist in the kitchen, using his creativity and knowledge of ingredients to craft unique and delicious dishes that leave a lasting impression on anyone who tries them. Md Rashed is a friendly and outgoing individual, always willing to share his knowledge and expertise with others. He is passionate about cooking and loves nothing more than to create amazing meals that bring people together.",
+        "recipe": [
+            {
+                "recipe_name": "Chiken Biryani",
+                "ingredients": "Spice, Vegetable, Meat, Yoghurt, Dried Fruit, Garlic, Mint leaf, Mint, Rice, Egg",
+                "cooking_method": "Rinse the Basmati rice in cold water and soak it for 30 minutes. Heat oil or ghee in a large pan or pot, add the sliced onions and sauté until golden brown. . Add the chicken pieces and fry until they turn golden brown. Add the chopped tomatoes, biryani masala, turmeric powder, red chili powder, and salt. Mix well and cook for 5-7 minutes. Mix well.Cover the pot with a tight-fitting lid and cook on low heat for 10-15 minutes or until the rice is fully cooked and fluffy.",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Mutton Roast",
+                "ingredients": " mutton pieces, chopped onion, ginger and garlic paste, turmeric powder,garam masala powder",
+                "cooking_method": "Heat a pan over a medium flame add 3 spoons of oil. Add pressure cooked mutton with stock mix well. Add a bay leaf and star anise mix. This is optional. If you want little gravy switch off the fire at this stage. For dry mutton stir well and fry for 5 minutes till it dry completely",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Chicken Fry",
+                "ingredients": "1 Kg Chicken, To deep fry Oil, 1/2 tsp Ginger paste, 1/2 tsp Garlic pasteto, taste Salt2 tsp Chilli powder",
+                "cooking_method": "Prick the chicken in 2-3 places, marinate in the mixture and keep for 3-4 hrs. Heat the oil in a heavy-based pan and put the chicken pieces into it. Deep-fry over a medium flame, till the chicken is tender. It takes 15-20 minutes. Serve garnished with lemon twists and coriander leaves.",
+                "ratings": "4.5"
+            }
+
+        ]
+    },
+    {
+        "id": 3,
+        "chefImage": "https://i.ibb.co/vBrGwd0/Uddin-2-web.jpg",
+        "chefName": "Md Polash",
+        "yearsOfExperience": "3 year +",
+        "numberOfRecipes": 3,
+        "likes": 250,
+        "description": "Md Polash is a professional chef with a passion for creating exquisite dishes that tantalize the taste buds. He is a skilled and experienced culinary expert, having spent many years honing his craft and perfecting his techniques. Md Polash is a true artist in the kitchen, using his creativity and knowledge of ingredients to craft unique and delicious dishes that leave a lasting impression on anyone who tries them. Md Polash is a friendly and outgoing individual, always willing to share his knowledge and expertise with others. He is passionate about cooking and loves nothing more than to create amazing meals that bring people together.",
+        "recipe": [
+            {
+                "recipe_name": "Chiken Biryani",
+                "ingredients": "Spice, Vegetable, Meat, Yoghurt, Dried Fruit, Garlic, Mint leaf, Mint, Rice, Egg",
+                "cooking_method": "Rinse the Basmati rice in cold water and soak it for 30 minutes. Heat oil or ghee in a large pan or pot, add the sliced onions and sauté until golden brown. . Add the chicken pieces and fry until they turn golden brown. Add the chopped tomatoes, biryani masala, turmeric powder, red chili powder, and salt. Mix well and cook for 5-7 minutes. Mix well.Cover the pot with a tight-fitting lid and cook on low heat for 10-15 minutes or until the rice is fully cooked and fluffy.",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Mutton Roast",
+                "ingredients": " mutton pieces, chopped onion, ginger and garlic paste, turmeric powder,garam masala powder",
+                "cooking_method": "Heat a pan over a medium flame add 3 spoons of oil. Add pressure cooked mutton with stock mix well. Add a bay leaf and star anise mix. This is optional. If you want little gravy switch off the fire at this stage. For dry mutton stir well and fry for 5 minutes till it dry completely",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Chicken Fry",
+                "ingredients": "1 Kg Chicken, To deep fry Oil, 1/2 tsp Ginger paste, 1/2 tsp Garlic pasteto, taste Salt2 tsp Chilli powder",
+                "cooking_method": "Prick the chicken in 2-3 places, marinate in the mixture and keep for 3-4 hrs. Heat the oil in a heavy-based pan and put the chicken pieces into it. Deep-fry over a medium flame, till the chicken is tender. It takes 15-20 minutes. Serve garnished with lemon twists and coriander leaves.",
+                "ratings": "4.5"
+            }
+
+        ]
+    },
+    {
+        "id": 4,
+        "chefImage": "https://i.ibb.co/z8PxXhK/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg",
+        "chefName": "Akash",
+        "yearsOfExperience": "1 year +",
+        "numberOfRecipes": 3,
+        "likes": 50,
+        "description": "Akash is a professional chef with a passion for creating exquisite dishes that tantalize the taste buds. He is a skilled and experienced culinary expert, having spent many years honing his craft and perfecting his techniques. Akash is a true artist in the kitchen, using his creativity and knowledge of ingredients to craft unique and delicious dishes that leave a lasting impression on anyone who tries them. Akash is a friendly and outgoing individual, always willing to share his knowledge and expertise with others. He is passionate about cooking and loves nothing more than to create amazing meals that bring people together.",
+        "recipe": [
+            {
+                "recipe_name": "Chiken Biryani",
+                "ingredients": "Spice, Vegetable, Meat, Yoghurt, Dried Fruit, Garlic, Mint leaf, Mint, Rice, Egg",
+                "cooking_method": "Rinse the Basmati rice in cold water and soak it for 30 minutes. Heat oil or ghee in a large pan or pot, add the sliced onions and sauté until golden brown. . Add the chicken pieces and fry until they turn golden brown. Add the chopped tomatoes, biryani masala, turmeric powder, red chili powder, and salt. Mix well and cook for 5-7 minutes. Mix well.Cover the pot with a tight-fitting lid and cook on low heat for 10-15 minutes or until the rice is fully cooked and fluffy.",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Mutton Roast",
+                "ingredients": " mutton pieces, chopped onion, ginger and garlic paste, turmeric powder,garam masala powder",
+                "cooking_method": "Heat a pan over a medium flame add 3 spoons of oil. Add pressure cooked mutton with stock mix well. Add a bay leaf and star anise mix. This is optional. If you want little gravy switch off the fire at this stage. For dry mutton stir well and fry for 5 minutes till it dry completely",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Chicken Fry",
+                "ingredients": "1 Kg Chicken, To deep fry Oil, 1/2 tsp Ginger paste, 1/2 tsp Garlic pasteto, taste Salt2 tsp Chilli powder",
+                "cooking_method": "Prick the chicken in 2-3 places, marinate in the mixture and keep for 3-4 hrs. Heat the oil in a heavy-based pan and put the chicken pieces into it. Deep-fry over a medium flame, till the chicken is tender. It takes 15-20 minutes. Serve garnished with lemon twists and coriander leaves.",
+                "ratings": "4.5"
+            }
+
+        ]
+    },
+    {
+        "id": 5,
+        "chefImage": "https://i.ibb.co/R09j5M1/images-1.jpg",
+        "chefName": "Srijit",
+        "yearsOfExperience": "3 year +",
+        "numberOfRecipes": 3,
+        "likes": 500,
+        "description": "Srijit is a professional chef with a passion for creating exquisite dishes that tantalize the taste buds. He is a skilled and experienced culinary expert, having spent many years honing his craft and perfecting his techniques. Srijit is a true artist in the kitchen, using his creativity and knowledge of ingredients to craft unique and delicious dishes that leave a lasting impression on anyone who tries them. Srijit is a friendly and outgoing individual, always willing to share his knowledge and expertise with others. He is passionate about cooking and loves nothing more than to create amazing meals that bring people together.",
+        "recipe": [
+            {
+                "recipe_name": "Chiken Biryani",
+                "ingredients": "Spice, Vegetable, Meat, Yoghurt, Dried Fruit, Garlic, Mint leaf, Mint, Rice, Egg",
+                "cooking_method": "Rinse the Basmati rice in cold water and soak it for 30 minutes. Heat oil or ghee in a large pan or pot, add the sliced onions and sauté until golden brown. . Add the chicken pieces and fry until they turn golden brown. Add the chopped tomatoes, biryani masala, turmeric powder, red chili powder, and salt. Mix well and cook for 5-7 minutes. Mix well.Cover the pot with a tight-fitting lid and cook on low heat for 10-15 minutes or until the rice is fully cooked and fluffy.",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Mutton Roast",
+                "ingredients": " mutton pieces, chopped onion, ginger and garlic paste, turmeric powder,garam masala powder",
+                "cooking_method": "Heat a pan over a medium flame add 3 spoons of oil. Add pressure cooked mutton with stock mix well. Add a bay leaf and star anise mix. This is optional. If you want little gravy switch off the fire at this stage. For dry mutton stir well and fry for 5 minutes till it dry completely",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Chicken Fry",
+                "ingredients": "1 Kg Chicken, To deep fry Oil, 1/2 tsp Ginger paste, 1/2 tsp Garlic pasteto, taste Salt2 tsp Chilli powder",
+                "cooking_method": "Prick the chicken in 2-3 places, marinate in the mixture and keep for 3-4 hrs. Heat the oil in a heavy-based pan and put the chicken pieces into it. Deep-fry over a medium flame, till the chicken is tender. It takes 15-20 minutes. Serve garnished with lemon twists and coriander leaves.",
+                "ratings": "4.5"
+            }
+
+        ]
+    },
+    {
+        "id": 6,
+        "chefImage": "https://i.ibb.co/CmK0vM2/images.jpg",
+        "chefName": "Hasan",
+        "yearsOfExperience": "2.5 year +",
+        "numberOfRecipes": 3,
+        "likes": 500,
+        "description": "Hasan is a professional chef with a passion for creating exquisite dishes that tantalize the taste buds. He is a skilled and experienced culinary expert, having spent many years honing his craft and perfecting his techniques. Hasan is a true artist in the kitchen, using his creativity and knowledge of ingredients to craft unique and delicious dishes that leave a lasting impression on anyone who tries them. Hasan is a friendly and outgoing individual, always willing to share his knowledge and expertise with others. He is passionate about cooking and loves nothing more than to create amazing meals that bring people together.",
+        "recipe": [
+            {
+                "recipe_name": "Chiken Biryani",
+                "ingredients": "Spice, Vegetable, Meat, Yoghurt, Dried Fruit, Garlic, Mint leaf, Mint, Rice, Egg",
+                "cooking_method": "Rinse the Basmati rice in cold water and soak it for 30 minutes. Heat oil or ghee in a large pan or pot, add the sliced onions and sauté until golden brown. . Add the chicken pieces and fry until they turn golden brown. Add the chopped tomatoes, biryani masala, turmeric powder, red chili powder, and salt. Mix well and cook for 5-7 minutes. Mix well.Cover the pot with a tight-fitting lid and cook on low heat for 10-15 minutes or until the rice is fully cooked and fluffy.",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Mutton Roast",
+                "ingredients": " mutton pieces, chopped onion, ginger and garlic paste, turmeric powder,garam masala powder",
+                "cooking_method": "Heat a pan over a medium flame add 3 spoons of oil. Add pressure cooked mutton with stock mix well. Add a bay leaf and star anise mix. This is optional. If you want little gravy switch off the fire at this stage. For dry mutton stir well and fry for 5 minutes till it dry completely",
+                "ratings": "4.5"
+            },
+            {
+                "recipe_name": "Chicken Fry",
+                "ingredients": "1 Kg Chicken, To deep fry Oil, 1/2 tsp Ginger paste, 1/2 tsp Garlic pasteto, taste Salt2 tsp Chilli powder",
+                "cooking_method": "Prick the chicken in 2-3 places, marinate in the mixture and keep for 3-4 hrs. Heat the oil in a heavy-based pan and put the chicken pieces into it. Deep-fry over a medium flame, till the chicken is tender. It takes 15-20 minutes. Serve garnished with lemon twists and coriander leaves.",
+                "ratings": "4.5"
+            }
+
+        ]
+    }
+]
